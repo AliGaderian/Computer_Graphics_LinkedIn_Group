@@ -62,7 +62,6 @@ python scripts/make_notebooks.py
 
 ## Notes and limits
 
-- نسخهٔ Colab در خود Colab اجرا نشده است؛ نسخهٔ محلی اجرا و خروجی‌ها ذخیره شده‌اند.
 - محدودیت‌های هر الگوریتم در README همان مقاله آمده است.
 
 ## License
