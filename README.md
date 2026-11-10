@@ -62,6 +62,7 @@ python scripts/make_notebooks.py
 
 ## Notes and limits
 
+- نسخهٔ Colab مقالهٔ ۱ در Google Colab هم اجرا شده و همهٔ سلول‌ها بدون خطا اجرا شده‌اند.
 - محدودیت‌های هر الگوریتم در README همان مقاله آمده است.
 
 ## License
