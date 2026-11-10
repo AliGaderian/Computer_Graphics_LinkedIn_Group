@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest
+# only needed to rebuild the notebooks with scripts/make_notebooks.py
+nbformat
+nbclient
+ipykernel
